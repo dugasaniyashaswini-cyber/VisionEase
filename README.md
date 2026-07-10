@@ -61,14 +61,6 @@ http://127.0.0.1:8000/docs
 3. Run the application on an emulator or Android device.
 4. Ensure the FastAPI backend is running before using the app.
 
-## 📸 Screenshots
-
-Add screenshots of:
-- Splash Screen
-- Home Screen
-- Vision Selection
-- Recommendation Screen
-
 ## 📌 Future Improvements
 
 - AI-powered recommendation engine
